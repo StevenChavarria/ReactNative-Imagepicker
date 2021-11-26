@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "splash": {
+      "Image:": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    }
   },
   "name": "myfirstapp"
 }
